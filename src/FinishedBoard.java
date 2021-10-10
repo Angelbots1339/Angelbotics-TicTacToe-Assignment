@@ -1,3 +1,5 @@
+package src;
+
 public class FinishedBoard extends GameBoard {
 	/**
 	 * Sets the board coordinate to the current player.
