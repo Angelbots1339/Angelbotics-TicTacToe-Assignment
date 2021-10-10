@@ -1,5 +1,5 @@
 # This file holds the environment variables for replit (see https://docs.replit.com/programming-ide/configuring-run-button)
 
 run = "files/./run.sh"
-language = "java11"
+language = "java10"
 onBoot = "chmod 777 files/run.sh"
