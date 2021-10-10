@@ -5,7 +5,7 @@ public class FinishedBoard extends GameBoard {
 	 * Sets the board coordinate to the current player.
 	 * @param x X-coordinate of move
 	 * @param y Y-coordinate of move
-	 * @return True when finished
+	 * @return True
 	*/
 	@Override
 	protected boolean setBoard(int x, int y) {
